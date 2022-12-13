@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é Guilherme Corre e sou estudante de Sistemas de Informação.
+- 👋 Olá, meu nome é Guilherme Correa e sou estudante de Sistemas de Informação.
 - 📚 Atualmente estudo as linguagens C#, Python, HTML - CSS - Javascript
 - 📫 Me encontre no Linkedin: www.linkedin.com/in/guilherme-correa-517325257 
 
