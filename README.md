@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Guilherme Correa e sou estudante de Sistemas de Informação.
 - 📚 Atualmente estudo as linguagens C#, Python, HTML - CSS - Javascript
-- 🖥️ No momento estou atuando como estagiário de desenvolvedor backend .NET | SQL Server
+- 🖥️ No momento estou atuando como desenvolvedor backend .NET | SQL Server
 - 📫 Me encontre no Linkedin: www.linkedin.com/in/guilherme-correa-517325257 
 
 <!---
